@@ -1,0 +1,11 @@
+1.while is a entry control statment
+2.Do while is exit control statment
+3.some conditional statments are Do while,while,if,else
+  for
+4.data base is info arranged in rows and colome
+5.public static void main (string args[])
+  Public= visiblity
+  static= no need to creating object
+  void=no value is returning 
+  main= type of methood
+  (strings args)= java file "xyz"
